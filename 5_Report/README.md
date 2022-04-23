@@ -1,1 +1,3 @@
+Topic - Door Sensor.
 
+Report - In this project 'Door Sensor', I tried to design a simulation on simulide. In this model main highlight is atmega328 sensor, in this model we attached a led which will get connect to the particular Door. We connect a 5V voltage source with 100ohms resistor to atmega328. Ground connections are provided to both Voltimeter connected with Led and Switch connected with atmega328. If the door is open it will start blinking and if closed it be off. The main purpose behind this project is the safety issue. It will help to know the person in seconds wheather his/her main door is open or locked without going there and reduces the chances of Theft.
